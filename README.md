@@ -32,7 +32,7 @@ To start server move to app folder and run
  *  The *libs directory* contains scripts for which ajax calls are made to(login & signup) and a script for retreiving chat history
 
 ## To do
-* Get username of posting and attach it to the message when they post a message
+* Get username of client posting and attach it to the message they are trying to post
 
 
 ## Developers
