@@ -1,0 +1,10 @@
+.send_btn{
+   float:right !important;
+}
+.main{
+   margin-top:2em;
+}
+#success,#error{
+   display: none;
+   text-align: center;
+}

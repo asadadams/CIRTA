@@ -1,0 +1,13 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.3.6"
+    },
+    "autoload":{
+      "psr-4":{
+         "Chatbase\\":"app"
+      },
+      "files":[
+         "app/includes/inc.php"
+      ]
+    }
+}
