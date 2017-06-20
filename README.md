@@ -39,7 +39,7 @@ To start server move to app folder and run
 If you are a developer feel free to contribute to the project by providing bug fixes, new ideas and suggestions. 
 **Was bored again, so tried learning a new thing and started researching on WebSockets. **
 
-##Me
+## Me
 Want to say hi? Will be happy to hear from you
 * [Twitter](http:///www.twitter.com/asadadams)
 * [Facebbok](http://www.facebook.com/asad.adams)
